@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Don't commit to repository to fetch the latest always
+yarn.lock
+
+# Theia IDE auto-generated files
+gen-webpack.config.js
+lib/
+plugins/
+src-gen/
+webpack.config.js
+
